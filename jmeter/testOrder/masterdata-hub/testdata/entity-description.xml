@@ -1,0 +1,74 @@
+<entityDescriptions xmlns="https://www.hrm-systems.ch/schemas/uka-connect/import/abacus/v1/entity-description" xmlns:ns2="https://www.hrm-systems.ch/schemas/uka-connect/import/abacus/v1/common">
+    <entityDescription>
+        <descriptionCategory>profession</descriptionCategory>
+        <entityUniqueId>4-230-57-1</entityUniqueId>
+        <descriptions>
+            <ns2:description language="de">Buchhalter</ns2:description>
+            <ns2:description language="en">Accountant</ns2:description>
+            <ns2:description language="fr">Comptable</ns2:description>
+        </descriptions>
+    </entityDescription>
+    <entityDescription>
+        <descriptionCategory>profession</descriptionCategory>
+        <entityUniqueId>4-230-57-2</entityUniqueId>
+        <descriptions>
+            <ns2:description language="de">Mechaniker</ns2:description>
+            <ns2:description language="en">Mechanic</ns2:description>
+            <ns2:description language="fr">Mécanicien</ns2:description>
+        </descriptions>
+    </entityDescription>
+    <entityDescription>
+        <descriptionCategory>profession</descriptionCategory>
+        <entityUniqueId>4-230-57-3</entityUniqueId>
+        <descriptions>
+            <ns2:description language="de">Spengler</ns2:description>
+            <ns2:description language="en">Plumber</ns2:description>
+            <ns2:description language="fr">Plombier</ns2:description>
+        </descriptions>
+    </entityDescription>
+    <entityDescription>
+        <descriptionCategory>profession</descriptionCategory>
+        <entityUniqueId>4-230-57-4</entityUniqueId>
+        <descriptions>
+            <ns2:description language="de">Kaufmännischer Mitarbeiter</ns2:description>
+            <ns2:description language="en">Commercial clerk</ns2:description>
+            <ns2:description language="fr">Employéde commerce</ns2:description>
+        </descriptions>
+    </entityDescription>
+    <entityDescription>
+        <descriptionCategory>profession</descriptionCategory>
+        <entityUniqueId>4-230-57-5</entityUniqueId>
+        <descriptions>
+            <ns2:description language="de">Elektriker</ns2:description>
+            <ns2:description language="en">Electrician</ns2:description>
+            <ns2:description language="fr">Electricien</ns2:description>
+        </descriptions>
+    </entityDescription>
+    <entityDescription>
+        <descriptionCategory>profession</descriptionCategory>
+        <entityUniqueId>4-230-57-6</entityUniqueId>
+        <descriptions>
+            <ns2:description language="de">Verkäufer</ns2:description>
+            <ns2:description language="en">Salesperson</ns2:description>
+            <ns2:description language="fr">Vendeur</ns2:description>
+        </descriptions>
+    </entityDescription>
+    <entityDescription>
+        <descriptionCategory>profession</descriptionCategory>
+        <entityUniqueId>4-230-57-7</entityUniqueId>
+        <descriptions>
+            <ns2:description language="de">Hilfsarbeiter</ns2:description>
+            <ns2:description language="en">Unskilled workers</ns2:description>
+            <ns2:description language="fr">Manoeuvre</ns2:description>
+        </descriptions>
+    </entityDescription>
+    <entityDescription>
+        <descriptionCategory>profession</descriptionCategory>
+        <entityUniqueId>4-230-57-8</entityUniqueId>
+        <descriptions>
+            <ns2:description language="de">Geschäftsleiter</ns2:description>
+            <ns2:description language="en">Director</ns2:description>
+            <ns2:description language="fr">Dirigeant</ns2:description>
+        </descriptions>
+    </entityDescription>
+</entityDescriptions>

@@ -1,0 +1,289 @@
+<companies xmlns="https://www.hrm-systems.ch/schemas/uka-connect/import/abacus/v1/company" xmlns:ns2="https://www.hrm-systems.ch/schemas/uka-connect/import/abacus/v1/common">
+    <company>
+        <companyUniqueId>0</companyUniqueId>
+        <identification>
+            <name>9Abacus Testing AG</name>
+            <nameAdditionalLine>9Systems AG</nameAdditionalLine>
+            <nameAdditionalLine>9Systems AG</nameAdditionalLine>                        
+            <uidBFS>CHE-999.999.996</uidBFS>
+        </identification>
+        <address>
+            <ns2:complementaryLine>9CompanyLine</ns2:complementaryLine>        
+            <ns2:street>9Abacus Platz</ns2:street>
+            <ns2:houseNumber>1</ns2:houseNumber>
+            <ns2:postOfficeBox>9001</ns2:postOfficeBox>            
+            <ns2:locality>SG</ns2:locality>
+            <ns2:postalCode>9300</ns2:postalCode>
+            <ns2:city>9Wittenbach</ns2:city>
+            <ns2:country>CH</ns2:country>
+            <ns2:validity>
+                <ns2:validFrom>2019-01-01</ns2:validFrom>
+            </ns2:validity>
+        </address>
+        <address>
+            <ns2:complementaryLine>9CompanyLine</ns2:complementaryLine>        
+            <ns2:street>9Abacus Platz</ns2:street>
+            <ns2:houseNumber>1</ns2:houseNumber>
+            <ns2:postOfficeBox>9001</ns2:postOfficeBox>            
+            <ns2:locality>SG</ns2:locality>
+            <ns2:postalCode>9300</ns2:postalCode>
+            <ns2:city>Wittenbach</ns2:city>
+            <ns2:country>CH</ns2:country>
+            <ns2:validity>
+                <ns2:validFrom>2021-02-05</ns2:validFrom>
+            </ns2:validity>
+        </address>
+        <owner>
+            <firstName>9Georg</firstName>
+            <lastName>9Hartmann</lastName>
+        </owner>        
+        <delegate>
+            <identification>
+                <name>9Lehmann AG</name>
+                <nameAdditionalLine>9Line1</nameAdditionalLine>
+                <nameAdditionalLine>9Line2</nameAdditionalLine>
+                <uidBFS>CHE-465.465.475</uidBFS>
+            </identification>
+            <address>
+                <ns2:complementaryLine>9DelegateLine</ns2:complementaryLine>
+                <ns2:street>9Musterstrasse</ns2:street>
+                <ns2:houseNumber>12</ns2:houseNumber>                
+                <ns2:postOfficeBox>8001</ns2:postOfficeBox>
+                <ns2:locality>ZH</ns2:locality>
+                <ns2:postalCode>8000</ns2:postalCode>
+                <ns2:city>Zurich</ns2:city>
+                <ns2:country>CH</ns2:country>
+            <ns2:validity>
+                <ns2:validFrom>2019-01-01</ns2:validFrom>
+            </ns2:validity>                                
+            </address>
+            <owner>
+                <firstName>9Markus</firstName>
+                <lastName>9Lehmann</lastName>
+            </owner>
+        </delegate>        
+        <workplaces>
+            <workplace>
+                <workplaceUniqueId>1</workplaceUniqueId>
+                <descriptions>
+                    <ns2:description language="de">Wittenbach</ns2:description>
+                    <ns2:description language="en">Wittenbach</ns2:description>
+                    <ns2:description language="fr">Wittenbach</ns2:description>
+                    <ns2:description language="it">Wittenbach</ns2:description>
+                </descriptions>
+                <address>
+                    <ns2:complementaryLine>1 WorkplaceLine</ns2:complementaryLine>                
+                    <ns2:street>Abacus Platz</ns2:street>
+                    <ns2:houseNumber>1</ns2:houseNumber>
+                    <ns2:postOfficeBox>8001</ns2:postOfficeBox>                    
+                    <ns2:locality>SG</ns2:locality>
+                    <ns2:postalCode>9300</ns2:postalCode>
+                    <ns2:city>Wittenbach</ns2:city>
+                    <ns2:country>CH</ns2:country>
+                    <ns2:validity>
+                        <ns2:validFrom>2019-01-01</ns2:validFrom>
+                    </ns2:validity>
+                </address>
+                <address>
+                    <ns2:complementaryLine>9WorkplaceLine</ns2:complementaryLine>                 
+                    <ns2:street>9Abacus Platz</ns2:street>
+                    <ns2:houseNumber>1</ns2:houseNumber>
+                    <ns2:postOfficeBox>8001</ns2:postOfficeBox>                    
+                    <ns2:locality>SG</ns2:locality>
+                    <ns2:postalCode>9309</ns2:postalCode>
+                    <ns2:city>9Wittenbach</ns2:city>
+                    <ns2:country>DE</ns2:country>
+                    <ns2:validity>
+                        <ns2:validFrom>2021-02-05</ns2:validFrom>
+                    </ns2:validity>
+                </address>
+                <canton>SG</canton>
+                <municipalityID>3204</municipalityID>
+                <weeklyWorkingHours>42.00</weeklyWorkingHours>
+                <weeklyWorkingLessons>0.00</weeklyWorkingLessons>
+                <burNumber>A12345677</burNumber>
+                <inHouseIdentity>InHouseIdentity</inHouseIdentity>                  
+            </workplace>
+            <workplace>
+                <workplaceUniqueId>2</workplaceUniqueId>
+                <descriptions>
+                    <ns2:description language="de">Biel</ns2:description>
+                    <ns2:description language="en">Biel</ns2:description>
+                    <ns2:description language="fr">Biel</ns2:description>
+                    <ns2:description language="it">Biel</ns2:description>                    
+                </descriptions>
+                <address>
+                    <ns2:complementaryLine>2 WorkplaceLine</ns2:complementaryLine>                 
+                    <ns2:street>Bahnhofstrasse</ns2:street>
+                    <ns2:houseNumber>30</ns2:houseNumber>
+                    <ns2:postOfficeBox>8001</ns2:postOfficeBox>                    
+                    <ns2:locality>BE</ns2:locality>
+                    <ns2:postalCode>2500</ns2:postalCode>
+                    <ns2:city>Biel/Bienne</ns2:city>
+                    <ns2:country>CH</ns2:country>
+                    <ns2:validity>
+                        <ns2:validFrom>2019-01-01</ns2:validFrom>
+                    </ns2:validity>
+                </address>
+                <address>
+                    <ns2:complementaryLine>9 WorkplaceLine</ns2:complementaryLine>                 
+                    <ns2:street>9Bahnhofstrasse</ns2:street>
+                    <ns2:houseNumber>30</ns2:houseNumber>
+                    <ns2:postOfficeBox>8001</ns2:postOfficeBox>                    
+                    <ns2:locality>BE</ns2:locality>
+                    <ns2:postalCode>2500</ns2:postalCode>
+                    <ns2:city>9Biel/Bienne</ns2:city>
+                    <ns2:country>CH</ns2:country>
+                    <ns2:validity>
+                        <ns2:validFrom>2021-02-05</ns2:validFrom>
+                    </ns2:validity>
+                </address> 
+                <canton>BE</canton>
+                <municipalityID>371</municipalityID>
+                <weeklyWorkingHours>42.00</weeklyWorkingHours>
+                <weeklyWorkingLessons>0.00</weeklyWorkingLessons>
+                <burNumber>A22222222</burNumber>
+                <inHouseIdentity>inHouseIdentity</inHouseIdentity>                    
+            </workplace>
+        </workplaces>
+    </company>
+    <company>
+        <companyUniqueId>10</companyUniqueId>
+        <identification>
+            <name>10 Abacus Testing AG</name>
+            <nameAdditionalLine>10 Systems AG</nameAdditionalLine>
+            <nameAdditionalLine>10 2Systems AG</nameAdditionalLine>                        
+            <uidBFS>CHE-999.999.910</uidBFS>
+        </identification>
+        <address>
+            <ns2:complementaryLine> 10 CompanyLine</ns2:complementaryLine>        
+            <ns2:street>10 Abacus Platz</ns2:street>
+            <ns2:houseNumber>1</ns2:houseNumber>
+            <ns2:postOfficeBox>9001</ns2:postOfficeBox>            
+            <ns2:locality>SG</ns2:locality>
+            <ns2:postalCode>9300</ns2:postalCode>
+            <ns2:city>Wittenbach</ns2:city>
+            <ns2:country>CH</ns2:country>
+            <ns2:validity>
+                <ns2:validFrom>2019-01-01</ns2:validFrom>
+            </ns2:validity>
+        </address>
+        <address>
+            <ns2:complementaryLine>10 CompanyLine</ns2:complementaryLine>        
+            <ns2:street>10 Abacus Platz</ns2:street>
+            <ns2:houseNumber>1</ns2:houseNumber>
+            <ns2:postOfficeBox>9001</ns2:postOfficeBox>            
+            <ns2:locality>SG</ns2:locality>
+            <ns2:postalCode>9300</ns2:postalCode>
+            <ns2:city>Wittenbach</ns2:city>
+            <ns2:country>CH</ns2:country>
+            <ns2:validity>
+                <ns2:validFrom>2021-02-05</ns2:validFrom>
+            </ns2:validity>
+        </address>
+        <owner>
+            <firstName>10 Georg</firstName>
+            <lastName>10 Hartmann</lastName>
+        </owner>        
+        <delegate>
+            <identification>
+                <name>10 Lehmann AG</name>
+                <nameAdditionalLine>10 Line1</nameAdditionalLine>
+                <nameAdditionalLine>10 Line2</nameAdditionalLine>
+                <uidBFS>CHE-465.465.410</uidBFS>
+            </identification>
+            <address>
+                <ns2:complementaryLine>10 DelegateLine</ns2:complementaryLine>
+                <ns2:street>10 Musterstrasse</ns2:street>
+                <ns2:houseNumber>12</ns2:houseNumber>                
+                <ns2:postOfficeBox>8001</ns2:postOfficeBox>
+                <ns2:locality>ZH</ns2:locality>
+                <ns2:postalCode>8000</ns2:postalCode>
+                <ns2:city>Zurich</ns2:city>
+                <ns2:country>CH</ns2:country>
+            <ns2:validity>
+                <ns2:validFrom>2019-01-01</ns2:validFrom>
+            </ns2:validity>                                
+            </address>
+            <owner>
+                <firstName>10 Markus</firstName>
+                <lastName>Lehmann</lastName>
+            </owner>
+        </delegate>        
+        <workplaces>
+            <workplace>
+                <workplaceUniqueId>10</workplaceUniqueId>
+                <descriptions>
+                    <ns2:description language="de">10 Wittenbach</ns2:description>
+                    <ns2:description language="en">10 Wittenbach</ns2:description>
+                    <ns2:description language="fr">10 Wittenbach</ns2:description>
+                    <ns2:description language="it">10 Wittenbach</ns2:description>
+                </descriptions>
+                <address>
+                    <ns2:street>Abacus Platz</ns2:street>
+                    <ns2:houseNumber>1</ns2:houseNumber>
+                    <ns2:locality>SG</ns2:locality>
+                    <ns2:postalCode>9300</ns2:postalCode>
+                    <ns2:city>Wittenbach</ns2:city>
+                    <ns2:country>CH</ns2:country>
+                    <ns2:validity>
+                        <ns2:validFrom>2019-01-01</ns2:validFrom>
+                    </ns2:validity>
+                </address>
+                <address>
+                    <ns2:street>Abacus Platz</ns2:street>
+                    <ns2:houseNumber>1</ns2:houseNumber>
+                    <ns2:locality>SG</ns2:locality>
+                    <ns2:postalCode>9300</ns2:postalCode>
+                    <ns2:city>Wittenbach</ns2:city>
+                    <ns2:country>CH</ns2:country>
+                    <ns2:validity>
+                        <ns2:validFrom>2021-02-05</ns2:validFrom>
+                    </ns2:validity>
+                </address>
+                <canton>SG</canton>
+                <municipalityID>3204</municipalityID>
+                <weeklyWorkingHours>42.00</weeklyWorkingHours>
+                <weeklyWorkingLessons>0.00</weeklyWorkingLessons>
+                <burNumber>A12345677</burNumber>
+            </workplace>
+            <workplace>
+                <workplaceUniqueId>11</workplaceUniqueId>
+                <descriptions>
+                    <ns2:description language="de">10 Biel</ns2:description>
+                    <ns2:description language="en">10 Biel</ns2:description>
+                    <ns2:description language="fr">10 Biel</ns2:description>
+                    <ns2:description language="it">10 Biel</ns2:description>                    
+                </descriptions>
+                <address>
+                    <ns2:street>Bahnhofstrasse</ns2:street>
+                    <ns2:houseNumber>30</ns2:houseNumber>
+                    <ns2:locality>BE</ns2:locality>
+                    <ns2:postalCode>2500</ns2:postalCode>
+                    <ns2:city>Biel/Bienne</ns2:city>
+                    <ns2:country>CH</ns2:country>
+                    <ns2:validity>
+                        <ns2:validFrom>2019-01-01</ns2:validFrom>
+                    </ns2:validity>
+                </address>
+                <address>
+                    <ns2:street>Bahnhofstrasse</ns2:street>
+                    <ns2:houseNumber>30</ns2:houseNumber>
+                    <ns2:locality>BE</ns2:locality>
+                    <ns2:postalCode>2500</ns2:postalCode>
+                    <ns2:city>Biel/Bienne</ns2:city>
+                    <ns2:country>CH</ns2:country>
+                    <ns2:validity>
+                        <ns2:validFrom>2021-02-05</ns2:validFrom>
+                    </ns2:validity>
+                </address>
+                <canton>BE</canton>
+                <municipalityID>371</municipalityID>
+                <weeklyWorkingHours>42.00</weeklyWorkingHours>
+                <weeklyWorkingLessons>0.00</weeklyWorkingLessons>
+                <burNumber>A22222222</burNumber>
+                <inHouseIdentity>inHouseIdentity</inHouseIdentity>                 
+            </workplace>
+        </workplaces>
+    </company>    
+</companies>
